@@ -20,7 +20,7 @@ before calling on a statistician. This can dramatically speed the turnaround tim
 have to work through all the pre-processing steps first. 
 
 
-What you should deliver to the statistician
+What you should deliver to the statistician!
 ====================
 
 For maximum speed in the analysis this is the information you should pass to a statistician:
@@ -30,7 +30,7 @@ For maximum speed in the analysis this is the information you should pass to a s
 3. A code book describing each variable and its values in the tidy data set.  
 4. An explicit and exact recipe you used to go from 1 -> 2,3 
 
-Let's look at each part of the data package you will transfer. 
+Let's look at each part of the data package you will transfer! 
 
 
 ### The raw data
@@ -159,7 +159,7 @@ to confirm that they can obtain the same output file you did.
 
 
 
-What you should expect from the analyst
+What you should expect from the analyst!
 ====================
 
 When you turn over a properly tidied data set it dramatically decreases the workload on the statistician. So hopefully
@@ -180,7 +180,7 @@ analysis. You may not be able to perform the exact analyses without the statisti
 to explain why the statistician performed each step to a labmate/your principal investigator. 
 
 
-Contributors
+Contributors!
 ====================
 
 * [Jeff Leek](http://biostat.jhsph.edu/~jleek/) - Wrote the initial version.
